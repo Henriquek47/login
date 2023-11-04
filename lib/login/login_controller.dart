@@ -46,8 +46,6 @@ class LoginController extends GetxController {
       return 'Coloque um email';
     } else if (value.length > 20) {
       return 'Email até 20 catecteres';
-    } else {
-      // Coloque aqui sua validação de e-mail (por exemplo, regex para formato de e-mail)
     }
     return null;
   }
