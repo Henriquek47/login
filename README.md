@@ -1,5 +1,12 @@
 # login
 
+##Usar json-server --host 0.0.0.0 db.json antes de rodar
+
+
+
+
+
+
 A new Flutter project.
 
 ## Getting Started
